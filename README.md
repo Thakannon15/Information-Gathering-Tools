@@ -19,7 +19,7 @@ Efficiently manage network interfaces to capture the right data. Explore techniq
 
 <p align="center">
 Navigate to the startup page: <br/>
-<img src="<img src="https://imgur.com/ZY9k9kL" " height="80%" width="80%" alt="Wireshark startup screen"/>
+<img src="https://imgur.com/ZY9k9kL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the "Capture Options" to properly configure your packet capture:  <br/>

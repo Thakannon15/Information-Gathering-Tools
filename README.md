@@ -11,19 +11,15 @@ Wireshark is a powerful and widely-used network protocol analayzer that allows y
 Efficiently manage network interfaces to capture the right data. Explore techniques for setting up multiple captures simultaneously, and optimizing workflow. 
 
 
-<h2>Environments Used </h2>
-
-- <b>Windows 10</b> (21H2)
-
 <h2>Program walk-through:</h2>
 
 <p align="center">
 Navigate to the startup page: <br/>
-<img src="https://imgur.com/ZY9k9kL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/s7MlDGf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the "Capture Options" to properly configure your packet capture:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/Yhcc97T.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Input Tab: Managing Interfaces: <br/>

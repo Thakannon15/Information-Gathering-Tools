@@ -1,6 +1,6 @@
 <h1>Wireshark Network Traffic Capture Lab</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+
 
 <h2>Overview</h2>
 Wireshark is a powerful and widely-used network protocol analayzer that allows you to capture and analyze the data traveling back and forth on your network. This lab is designed to help you gain practical experience in capturing network traffic, exploring various capture settings, and efficiently managing interfaces. 
@@ -11,7 +11,7 @@ Wireshark is a powerful and widely-used network protocol analayzer that allows y
 Efficiently manage network interfaces to capture the right data. Explore techniques for setting up multiple captures simultaneously, and optimizing workflow. 
 
 
-<h2>Program walk-through:</h2>
+<h2>Walk-through:</h2>
 
 <p align="center">
 Navigate to the startup page: <br/>

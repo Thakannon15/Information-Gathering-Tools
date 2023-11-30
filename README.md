@@ -15,32 +15,29 @@ Efficiently manage network interfaces to capture the right data. Explore techniq
 
 <p align="center">
 Navigate to the startup page: <br/>
-<img src="https://imgur.com/s7MlDGf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/s7MlDGf.png" height="80%" width="80%" alt="Wireshark Network Traffic Capture Lab"/>
 <br />
 <br />
-Select the "Capture Options" to properly configure your packet capture:  <br/>
-<img src="https://imgur.com/Yhcc97T.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Upon launching Wireshark, you'll encounter an array of tools situated in the upper left-hand corner of the interface. Directly below, you'll find a search bar enabling the application of display filters. Adjacent to this another searh bar facilitates the input of a capture filter. Underneath the capture filter search bar, you'll find a list of interfaces available for capturing packets. 
+
+<p align="center">
+ Configuring Packet Capture:  <br/>
+<img src="https://imgur.com/Yhcc97T.png" height="80%" width="80%" alt="Wireshark Network Traffic Capture Lab"/>
 <br />
 <br />
-Input Tab: Managing Interfaces: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+To properly configure your packet capture select the "Capture Options."
+Three tabs labeled: Input, Output, and Options will pop up
+ <p align="center">
+ Input Tab: Managing Interfaces: <br/>
+<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Wireshark Network Traffic Capture Lab"/>
 <br />
 <br />
-Output Tab: Define Output Options:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+  <p align="center">
+ Output Tab: Define Output Options:  <br/>
+<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Wireshark Network Traffic Capture Lab"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
 
 <!--
  ```diff

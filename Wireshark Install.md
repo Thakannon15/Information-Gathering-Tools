@@ -1,4 +1,3 @@
-```markdown
 # Wireshark Walkthrough Tutorial for College Students on Kali Linux
 
 ## Introduction
@@ -12,6 +11,7 @@ Open the terminal on your Kali Linux system. You can do this by clicking on the 
 ## Step 2: Update Package Lists
 
 Ensure your system has the latest information about available packages by running the following command:
+
 
 ```bash
 sudo apt update
@@ -104,6 +104,3 @@ Feel free to explore additional features and customize your packet analysis base
 ## Conclusion
 
 Congratulations! You've completed the Wireshark Walkthrough Tutorial for Kali Linux. This foundational knowledge of Wireshark will empower you to analyze network traffic effectively. Experiment with different filters and explore advanced features to enhance your understanding of network protocols. Happy analyzing!
-```
-
-You can copy and paste this Markdown content into your README.md file in your GitHub repository.

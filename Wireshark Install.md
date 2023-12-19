@@ -1,4 +1,4 @@
-# Wireshark Walkthrough Tutorial for College Students on Kali Linux
+# Wireshark Walkthrough Tutorial for Beginners on Kali Linux
 
 ## Introduction
 

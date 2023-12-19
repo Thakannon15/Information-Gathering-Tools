@@ -112,4 +112,3 @@ Feel free to explore additional options and customize your scans based on your s
 ## Conclusion:
 
 Congratulations! You've completed the Nmap Walkthrough Tutorial for Kali Linux. This foundational knowledge of Nmap will serve you well as you explore the world of network scanning and cybersecurity. Experiment with different options and scan scenarios to deepen your understanding of Nmap's capabilities. Happy scanning!
-```

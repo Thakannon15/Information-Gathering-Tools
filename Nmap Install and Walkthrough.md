@@ -1,5 +1,5 @@
 
-# Nmap Walkthrough Tutorial for College Students
+# Nmap Install on Linux
 
 ## Introduction:
 
